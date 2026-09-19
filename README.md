@@ -19,7 +19,7 @@ Necessário  para execução
 
 informe o cliente, adicionei so 3 cadastros de clientes , então digite 1 para informar o clente
 adicione o produto ou mais se quizer, tbm adicionei apenas 3 cadastros de protudos, clique em incluir.
-para gravar o pedido basta clicar em gravar
+Para gravar o pedido basta clicar em gravar.
 
 se quizer carregar o pedido, digite o codigo do peidito e clique em carregar , voce pode altera-lo se quizer.
 
