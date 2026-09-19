@@ -21,9 +21,6 @@ informe o cliente, adicionei so 3 cadastros de clientes , então digite 1 para i
 adicione o produto ou mais se quizer, tbm adicionei apenas 3 cadastros de protudos, clique em incluir.
 Para gravar o pedido basta clicar em gravar.
 
-se quizer carregar o pedido, digite o codigo do peidito e clique em carregar , voce pode altera-lo se quizer.
-
-
 Depois de gravar, informe o número do pedido e use Carregar Pedido (cabeçalho + itens) ou Cancelar Pedido (apaga pedido e itens na mesma transação).
 
 Os testes de totalização (DUnitX) ficam em `tests\PedidoVenda.Tests.dproj`.
