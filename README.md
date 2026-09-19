@@ -1,6 +1,6 @@
 ## Instruções 
 
-1. Para fazer o clone  abra o powerShel  execute git clone https://github.com/Jarbas/DevHunt.git
+1. Para fazer o clone  abra o powerShel  execute 'git clone https://github.com/Jarbas/DevHunt.git'
 
 Necessário  para execução
 
