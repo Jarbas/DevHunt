@@ -15,6 +15,15 @@ Necessário  para execução
 3. Se ainda não existir, o script também deixa um `config.ini` na raiz. Esse arquivo já aponta para a pasta do projeto — não precisa colocar caminho absoluto de outra máquina.
 4. Abra `PedidoVenda.dpr` no Delphi, compile e rode.
 
+## Testes
+
+informe o cliente, adicionei so 3 cadastros de clientes , então digite 1 para informar o clente
+adicione o produto ou mais se quizer, tbm adicionei apenas 3 cadastros de protudos, clique em incluir.
+para gravar o pedido basta clicar em gravar
+
+se quizer carregar o pedido, digite o codigo do peidito e clique em carregar , voce pode altera-lo se quizer.
+
+
 Depois de gravar, informe o número do pedido e use Carregar Pedido (cabeçalho + itens) ou Cancelar Pedido (apaga pedido e itens na mesma transação).
 
 Os testes de totalização (DUnitX) ficam em `tests\PedidoVenda.Tests.dproj`.
@@ -38,8 +47,4 @@ PedidoVenda/
 ## Configuração
 
 O `config.ini` fica na raiz. O caminho do banco é relativo:
-
-Assim, em qualquer PC, depois do clone e do `criar_banco.bat`, a aplicação encontra o banco na própria pasta do projeto.
-
-### Teste
 
